@@ -1,0 +1,1 @@
+- ![Adaptive Power](https://i.ibb.co/LyyTLpF/Depth-Chase-with-Adaptive-Power.gif)
